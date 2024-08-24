@@ -1,5 +1,5 @@
 # ESP-IR
-Simple NodeMCU Project to control a HDMI switch using web requests
+Simple NodeMCU Project to control a HDMI switch using web requests...<br>
 With the ESP8266 we can read and transmit infrared (IR) signals over WiFi web requests to imitate the remote of the HDMI switch
 
 What you need:
